@@ -2,14 +2,14 @@ package c322spring2024homework2.model;
 
 public class Guitar {
     private String serialNumber;
-    private double price;
+    private Double price;
     private Builder builder;
     private String model;
     private Type type;
     private Wood backWood;
     private Wood topWood;
 
-    public Guitar(String serialNumber, double price, Builder builder, String model, Type type, Wood backWood, Wood topWood) {
+    public Guitar(String serialNumber, Double price, Builder builder, String model, Type type, Wood backWood, Wood topWood) {
         this.serialNumber = serialNumber;
         this.price = price;
         this.builder = builder;
@@ -23,7 +23,7 @@ public class Guitar {
         return serialNumber;
     }
 
-    public double getPrice() {
+    public Double getPrice() {
         return price;
     }
 

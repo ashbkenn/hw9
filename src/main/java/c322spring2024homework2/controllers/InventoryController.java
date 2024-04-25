@@ -21,7 +21,7 @@ public class InventoryController {
 
     @GetMapping("/search")
     public List<GuitarTable> searchGuitars(@RequestParam(required = false) String serialNumber,
-                                      @RequestParam(required = false) double price,
+                                      @RequestParam(required = false) Double price,
                                       @RequestParam(required = false) String builder,
                                       @RequestParam(required = false) String model,
                                       @RequestParam(required = false) String type,

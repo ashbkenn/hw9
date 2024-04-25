@@ -19,7 +19,7 @@ public class GuitarTable {
     public GuitarTable() {
     }
 
-    public GuitarTable(String serialNumber, double price, String builder, String model, String type, String backWood, String topWood) {
+    public GuitarTable(String serialNumber, Double price, String builder, String model, String type, String backWood, String topWood) {
         this.serialNumber = serialNumber;
         this.price = price;
         this.builder = builder;
@@ -37,11 +37,11 @@ public class GuitarTable {
         this.serialNumber = serialNumber;
     }
 
-    public double getPrice() {
+    public Double getPrice() {
         return price;
     }
 
-    public void setPrice(double price) {
+    public void setPrice(Double price) {
         this.price = price;
     }
 

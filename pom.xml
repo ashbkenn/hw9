@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>edu.iu.habahram</groupId>
-	<artifactId>hw6</artifactId>
+	<artifactId>hw9</artifactId>
 	<version>0.0.1</version>
 	<name>guitar-inventory-management</name>
 	<description>Guitar Inventory Management System</description>

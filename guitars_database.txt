@@ -1,1 +1,35 @@
 EK4902,4999.99,Fender,Stratocaster,electric,Mahogany,Cedar
+AK4902,1999.99,Fender,Stratocaster,acoustic,Mahogany,Cedar
+AK4902,1999.99,Fender,Stratocaster,electric,Mahogany,Cedar
+AK4902,1999.99,Fender,Stratocaster,acoustic,Mahogany,Cedar
+SN001,999.99,Gibson,Les Paul,electric,Mahogany,Maple
+SN002,1299.99,Fender,Telecaster,electric,Alder,Alder
+SN003,899.99,Martin,D-18,acoustic,Mahogany,Cedar
+AK4902,1999.99,Fender,Stratocaster,acoustic,Mahogany,Cedar
+AK4902,1999.99,Fender,Stratocaster,electric,Mahogany,Cedar
+AK4902,1999.99,Fender,Stratocaster,acoustic,Mahogany,Cedar
+SN001,999.99,Gibson,Les Paul,electric,Mahogany,Maple
+SN002,1299.99,Fender,Telecaster,electric,Alder,Alder
+SN003,899.99,Martin,D-18,acoustic,Mahogany,Cedar
+AK4902,1999.99,Fender,Stratocaster,acoustic,Mahogany,Cedar
+AK4902,1999.99,Fender,Stratocaster,electric,Mahogany,Cedar
+AK4902,1999.99,Fender,Stratocaster,acoustic,Mahogany,Cedar
+SN001,999.99,Gibson,Les Paul,electric,Mahogany,Maple
+SN002,1299.99,Fender,Telecaster,electric,Alder,Alder
+SN003,899.99,Martin,D-18,acoustic,Mahogany,Cedar
+AK4902,1999.99,Fender,Stratocaster,acoustic,Mahogany,Cedar
+AK4902,1999.99,Fender,Stratocaster,electric,Mahogany,Cedar
+AK4902,1999.99,Fender,Stratocaster,acoustic,Mahogany,Cedar
+SN001,999.99,Gibson,Les Paul,electric,Mahogany,Maple
+SN002,1299.99,Fender,Telecaster,electric,Alder,Alder
+SN003,899.99,Martin,D-18,acoustic,Mahogany,Cedar
+AK4902,1999.99,Fender,Stratocaster,electric,Mahogany,Cedar
+AK4902,1999.99,Fender,Stratocaster,acoustic,Mahogany,Cedar
+SN001,999.99,Gibson,Les Paul,electric,Mahogany,Maple
+SN002,1299.99,Fender,Telecaster,electric,Alder,Alder
+SN003,899.99,Martin,D-18,acoustic,Mahogany,Cedar
+AK4902,1999.99,Fender,Stratocaster,electric,Mahogany,Cedar
+AK4902,1999.99,Fender,Stratocaster,acoustic,Mahogany,Cedar
+SN001,999.99,Gibson,Les Paul,electric,Mahogany,Maple
+SN002,1299.99,Fender,Telecaster,electric,Alder,Alder
+SN003,899.99,Martin,D-18,acoustic,Mahogany,Cedar

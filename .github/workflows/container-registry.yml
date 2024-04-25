@@ -40,3 +40,4 @@ jobs:
           docker build -t ghcr.io/ashbkenn/guitar-inventory-management:latest --file Dockerfile .  
           docker push ghcr.io/ashbkenn/guitar-inventory-management:latest
 
+
